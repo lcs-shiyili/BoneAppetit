@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		411252952F572ADE00EE0415 /* FeedingRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 411252942F572ADE00EE0415 /* FeedingRow.swift */; };
 		41DD3C632F51E9D300374C52 /* PiperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41DD3C622F51E9CC00374C52 /* PiperView.swift */; };
 		A60356EB2F51D73A00934CEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A60356E72F51D73A00934CEB /* Assets.xcassets */; };
 		A60356EC2F51D73A00934CEB /* BoneAppetitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A60356E82F51D73A00934CEB /* BoneAppetitApp.swift */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		411252942F572ADE00EE0415 /* FeedingRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedingRow.swift; sourceTree = "<group>"; };
 		41DD3C622F51E9CC00374C52 /* PiperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiperView.swift; sourceTree = "<group>"; };
 		A60356D92F51D68D00934CEB /* BoneAppetit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BoneAppetit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A60356E72F51D73A00934CEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 			children = (
 				A60356E92F51D73A00934CEB /* CohortsView.swift */,
 				41DD3C622F51E9CC00374C52 /* PiperView.swift */,
+				411252942F572ADE00EE0415 /* FeedingRow.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A60356EC2F51D73A00934CEB /* BoneAppetitApp.swift in Sources */,
+				411252952F572ADE00EE0415 /* FeedingRow.swift in Sources */,
 				A60356ED2F51D73A00934CEB /* CohortsView.swift in Sources */,
 				41DD3C632F51E9D300374C52 /* PiperView.swift in Sources */,
 			);
